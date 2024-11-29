@@ -6,5 +6,6 @@ when redirected coming from background, the router in dev show the right screen 
 in our production build, the screen also stay in view for the user instead of the expected route.
 
 
-https://github.com/user-attachments/assets/d8258174-3c5a-4db8-b6ac-a575084e5be1
+
+https://github.com/user-attachments/assets/b118e12e-8218-46c0-9b07-3e5629754c63
 
